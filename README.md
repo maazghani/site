@@ -5,13 +5,13 @@ A simple (gradient-heavy) single pager that revisits a style I messed with on tw
 previous designs (Tessellate and Telephasic). Fully responsive, built on Sass,
 and, as usual, loaded with an assortment of pre-styled elements. Have fun! :)
 
-* Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+* Demo images courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
 
 Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
 
 
-#### Credits:
+### Credits:
 
 	* Demo Images:
 		** Unsplash (unsplash.com)
