@@ -1,15 +1,6 @@
 
-## Photon
-
-A simple (gradient-heavy) single pager that revisits a style I messed with on two
-previous designs (Tessellate and Telephasic). Fully responsive, built on Sass,
-and, as usual, loaded with an assortment of pre-styled elements. Have fun! :)
-
-* Demo images courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
+### http://maaz.io
+Personal site powered by GitHub Pages.
 
 ### Credits:
 
@@ -24,3 +15,4 @@ Feedback, bug reports, and comments are not only welcome, but strongly encourage
 * background-size polyfill (github.com/louisremi)
 * Respond.js (j.mp/respondjs)
 * Skel (skel.io)
+* html5up.net/photon
