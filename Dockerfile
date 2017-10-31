@@ -1,5 +1,6 @@
-FROM nginx:alpine
-ADD . /usr/share/nginx/html/
+FROM k8sutils/ubuntu
+ADD . /www/
+WORKDIR /www
 
-EXPOSE 80
-CMD ["nginx", "-g", "daemon off;"]
+EXPOSE 3000
+CMD ["/www/website"]
