@@ -3364,7 +3364,7 @@
 			}
 
 				#header br {
-					display: none;
+					display: initial;
 				}
 
 		/* Footer */
