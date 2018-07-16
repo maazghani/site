@@ -1,7 +1,7 @@
 ![dockerhub](http://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)
 
 
-### http://maaz.io
+### https://maaz.io
 Personal site powered by GitHub Pages.
 
 ### Credits:
