@@ -3354,7 +3354,7 @@
 		/* Main */
 
 			.main {
-				padding: 2em 1.5em 0.1em 1.5em ;
+				padding: initial;
 			}
 
 		/* Header */
