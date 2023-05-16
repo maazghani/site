@@ -1,1 +1,7 @@
 website
+
+*.vectorized_content
+*.vectorized_metadata
+.noteablekeep
+*.py[cod]
+__pycache__
